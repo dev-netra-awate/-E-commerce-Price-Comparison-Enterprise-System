@@ -18,12 +18,6 @@ Example: A car can be bought or rented, Meal can be provided by a Restaurant or 
 
 
 
-Team -      
-Netra Awate - 001529534      
-Sakshi Nayak- 002193939        
-Taru Shukla- 002193864        
-
-
 
 
 
